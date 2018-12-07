@@ -1,2 +1,4 @@
-# chatroom
-c++ socket
+# helloa
+c++ socket chatroom
+* server
+* client
