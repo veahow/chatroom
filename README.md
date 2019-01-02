@@ -5,8 +5,10 @@ c++ socket chatroom helloa
     * OS - Windows 10 & Android(no iOS)
 * Project Directory
     * server
-        * windows - server on windows os(doing)
+        * windows - server on windows os(basically completed)
         * linux - server on linux os(to do)
     * client
-        * windows(doing)
-        * android(doing)
+        * windows-console(basically completed)
+        * windows-qt(to do)
+        * windows-mfc(to do)
+        * android(basically completed)
