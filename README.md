@@ -6,7 +6,7 @@ c++ socket chatroom helloa
 * Project Directory
     * server
         * windows - server on windows os(basically completed)
-        * linux - server on linux os(to do)
+        * linux - server on linux os(basically completed)
     * client
         * windows-console(basically completed)
         * windows-qt(to do)
